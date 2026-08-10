@@ -14,4 +14,7 @@ The system is controlled from the main script in MATLAB, which communicates with
 
 The signal processing and analysis were done using a graphical user interface (GUI):
 
-![GUI demo](amimation_1.gif)
+<p align="center">
+  <img src="amimation_1.gif" width="45%" />
+  <img src="amimation_2.gif" width="45%" />
+</p>
